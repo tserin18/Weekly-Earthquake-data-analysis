@@ -25,5 +25,5 @@ A comprehensive libraryby Peter Bird was downloaded from Geochemistry Geophysics
 * Pull the repository.
 * Run python -m http.server from the directory.
 * Select index.html.
-* When index.html is displayed, a dropdown of  "Basic Visualization", "More Data" or "Time Keeps On Ticking" can be selected from a dropdown menu.
+* When index.html is displayed, a dropdown of  "Basic Visualization", "More Data" or "Time Ticking" can be selected from a dropdown menu.
 
