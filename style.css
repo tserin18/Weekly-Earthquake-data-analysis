@@ -1,0 +1,67 @@
+html,
+body,
+#map{
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  padding: 10px;
+  font-family: Sanchez, serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+iframe.banner
+{
+    border-color: transparent ;
+    background-color: #a9e8ec;  
+}
+
+iframe {
+  position: absolute;
+  margin-top: 20px;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-color: transparent ;
+}
+
+#left{
+  margin-top: 30px;
+  border-color: transparent;
+  background-color: #a9e8ec;
+  vertical-align: top;
+  height:500px;
+  width: 200px;
+}
+
+h2.home {
+  display:block;
+  color: white; 
+  background-color: cadetblue;
+  margin-left:60px;  
+  padding: 0 10px 0px 10px;
+}
+
+h2{
+  color:cadetblue;
+  }
+
+  h2.home:hover{
+    text-decoration: none;
+}
+
+#navbarDropdown{
+  margin-right: 150px;
+}
+
+h1{
+  color:cadetblue;
+}
